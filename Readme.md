@@ -2,7 +2,7 @@
 
 In this project we are performing the implementation of the PCA(Principal Component Analysis), and using the classifier model to predict the ClassCode in the Dataset.
 
-![alt text](https://github.com/abhisngh/Principal-Component-Analysis-Implementation/blob/master/Psoriasis.jpg "Logo Title Text 1")
+![alt text](https://github.com/abhisngh/Principal-Component-Analysis-Implementation/blob/master/PsoriasisSkin.jpg "Logo Title Text 1")
 
 Dermatology dataset
 ---------------------------
